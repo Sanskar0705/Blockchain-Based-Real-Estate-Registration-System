@@ -11,7 +11,9 @@ So the Land Registration system using blockchain is a distributed system that wi
 ## Tech Stack Used:
 
 	Frontend:
-	* Javascript
+ 	HTML
+  	CSS
+	Javascript
   * React Framework
 	* CSS
 * Metamask Chrome Extension
